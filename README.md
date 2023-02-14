@@ -14,12 +14,13 @@ Once all the questions are answered, the user is presented with a random passwor
 
 ## Website Links
 
-- Deployed URL: 
-- GitHub Repository: 
+- Deployed URL: https://blakeedwards3.github.io/password-generator-javascript/
+- GitHub Repository: https://github.com/blakeedwards3/password-generator-javascript
 
 ## Website Screenshot
 
 ![Alt text](assets/Images/127.0.0.1_5500_assets_index.html.png)
+
 
 
 ## Credits
