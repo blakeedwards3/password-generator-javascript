@@ -19,7 +19,7 @@ Once all the questions are answered, the user is presented with a random passwor
 
 ## Website Screenshot
 
-![Alt text](assets/Images/127.0.0.1_5500_assets_index.html.png)
+![Alt text](Images/127.0.0.1_5500_assets_index.html.png)
 
 
 
